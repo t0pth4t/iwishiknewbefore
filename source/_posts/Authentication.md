@@ -9,11 +9,11 @@ tags: dev
   - XML based data format and protocol for user authentication
   - Oldest
 - OpenID
-  - Obsolete standard for maintatining identity with an identity provider.
+  - Obsolete standard for maintaining identity with an identity provider.
   - Replaced by OpenID connect
 - OpenID connect
   - Relies on OAuth 2.0 protocol for the User to grant the Service Provider access to their identity data
-  - JSON Web Tokens to package identity and other claimns in the token payload
+  - JSON Web Tokens to package identity and other claims in the token payload
 - OAuth 2.0
   - Authorization scheme not an authentication scheme
   - When you use OAuth for authentication you are using it to get authorization form the user to access their credentials stored with the provider and you are trusting the provider to have verified those credentials
@@ -21,7 +21,7 @@ tags: dev
 
 # Single Sign On
 
-- Single Point of Access is not the smae as a Signle Point of Failure
+- Single Point of Access is not the same as a Single Point of Failure
 - Significant return on investment
   - reduce the strait on local it resources
 - Enhance user satisfaction
@@ -53,11 +53,9 @@ OAuth allows for:
 
 - Authentication is the process of verifying who you are. When you log on to a PC with a user name and password you are authenticating.
 - Authorization is the process of verifying that you have access to something. Gaining access to a resource (e.g. directory on a hard disk) because the permissions configured on it allow you access is authorization.
-
 - Authentication is the process of ascertaining that somebody really is who he claims to be.
-
-- Authorization refers to rules that determine who is allowed to do what. E.g. Adam may be authorized to create and delete databases, while Usama is only authorised to read.
-
+- Authorization refers to rules that determine who is allowed to do what. E.g. Adam may be authorized to create and delete databases, while Usama is only authorized to read.
+- Put another way, when you hand your driver’s license over to a police officer, the officer can confirm that you are authorized to drive a car, motorcycle, or commercial vehicle.  When you hand the same license over at the theater box office, you are authenticating that you are the person who ordered the tickets for the show.
 
 ---
 # Resources
@@ -65,3 +63,11 @@ OAuth allows for:
 [https://auth0.com/blog/everything-you-wanted-to-know-about-oauth-2-but-were-too-afraid-to-ask/](https://auth0.com/blog/everything-you-wanted-to-know-about-oauth-2-but-were-too-afraid-to-ask/)
 
 [http://lightstep.com/blog/everything-I-wish-I-knew-about-enterprise-sso/](http://lightstep.com/blog/everything-I-wish-I-knew-about-enterprise-sso/)
+
+[https://stackoverflow.com/questions/6556522/authentication-versus-authorization](https://stackoverflow.com/questions/6556522/authentication-versus-authorization)
+
+[https://serverfault.com/questions/57077/what-is-the-difference-between-authentication-and-authorization](https://serverfault.com/questions/57077/what-is-the-difference-between-authentication-and-authorization)
+
+[http://www.licensinglive.com/blog/2012/10/authorization-vs-authentication-whats-the-difference/](http://www.licensinglive.com/blog/2012/10/authorization-vs-authentication-whats-the-difference/)
+
+[https://spin.atomicobject.com/2016/05/30/openid-oauth-saml/](https://spin.atomicobject.com/2016/05/30/openid-oauth-saml/)
