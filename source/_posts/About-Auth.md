@@ -7,6 +7,11 @@ tags: dev
 - IAM
   - Identity access management
 
+- What is SAML?
+  - Security Assertion Markup Language
+  -
+- What is LDAP/OpenLDAP?
+
 ---
 # Resources
 
