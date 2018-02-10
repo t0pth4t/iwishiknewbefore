@@ -12,6 +12,7 @@ tags: dev
   -
 - What is LDAP/OpenLDAP?
 
+- What is OpenID Connect
 ---
 # Resources
 
