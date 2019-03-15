@@ -17,6 +17,8 @@ tags:
 
 # Between the World and Me
 - Remember very little but a short and interesting book nonetheless
+- On re-listen interesting point about how the white race only became the white race when it became convenient to lump Italians, Jews, Irish, Polish, etc.. into one category against another, black.
+- Lots of mention of the black body and the power others try to exert over it
 
 # Antifragile: Things That Gain from Disorder
 - Being anti-fragile means being able to respond to failure
@@ -117,7 +119,7 @@ tags:
 - Not sleeping as much as we get older is not the natural way of things and probably contributes to the numerous brain disorders as we age.
 - Drinking alcohol is massively bad for sleep so if you are going to get drunk do it in the middle of the day
 - Caffeine has a really long half life and can wake you up in the middle of the night
-- Melationin is only good for jet lag
+- Melatonin is only good for jet lag
 
 # Consider the Lobster and Other Essays (Selected Essays)
 - Makes me more confident in my decision to be veg
@@ -142,3 +144,6 @@ tags:
 # Brain Myths Exploded: Lessons from Neuroscience
 - Actually a lot of information I had not heard in this and some pretty interesting insights. Worth looking at the PDF on Audible
 
+# Quiet 
+- Interesting point about how the desire for extroversion is a modern invention. 
+- Book was mostly focused on the "good" traits that introverts posses and how it makes introverts equal or better than extroverts in certain areas. Left me thinking ..no duh.. throughout.
