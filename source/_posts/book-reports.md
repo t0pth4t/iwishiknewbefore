@@ -45,6 +45,10 @@ tags:
 - Some keys to Stoicism 
     - Negative visualization (imaging losing a job or loved one) helps you appreciate what you have
     - Not stressing about things that you do not control
+- on insults if it is from someone you respect you should take it to heart. If its from someone you dislike you should take the insult as confirmation that you are doing something right since someone you don't respect doesn't approve of what you are doing. Also you can use self-deprecating humor to defend yourself. Otherwise just don't respond to insults unless you are in power
+- don't let wealth and fame be your master. Wealth and fame are to be enjoyed in a virtuous manner but not pursued 
+- Don't fear death because it is the strongest form of negative visualization. Some stoics approved of suicide if you were no longer to live a good life.
+- Stocism declined in popularity likely due to Christianity and modern psychology telling us to deal with our problems in an open and expressive manner
 
 # 48 Laws of Power
 - Manipulative techniques on how to get 'Power' that I do not remember a single one
