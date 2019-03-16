@@ -58,6 +58,8 @@ tags:
 
 # The Denial of Death
 - Remember nothing from this
+- On re-listen
+    - book is very dense and so far offers nothing of interest. Focus on what sounds to me like ancient views on psychology in the vein of Freud. Spends a significant amount of time talking about childhood "anality" for example.
 
 # FREE: The Future of a Radical Price
 - How free products can become  successes
